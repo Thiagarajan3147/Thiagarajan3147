@@ -2,7 +2,9 @@
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me 
+	karthik07031995@gmail.com
+	9962344331
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
